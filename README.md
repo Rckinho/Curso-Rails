@@ -1,3 +1,3 @@
-# README
+# Primeiro Repositório de Rails
 
-Primera modificação
+Primera modificação "Curso Rails"
